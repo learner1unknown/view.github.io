@@ -1,20 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-
-        <link rel="stylesheet" href="style.css">
-        <nav>
-            <ul>
+        
+   <head>
+        <title>Google Search</title>
+    </head>
+   <link rel="stylesheet" href="style.css">
+   <nav>
+   <ul>
        <li><a href="index.html">Google Search</a></li>
        <li><a href="advanced.html">Advanced Search</a></li>
        <li><a href="image.html">Image Search</a></li>
        <li><a href="lucky.html">I'm Feeling Lucky</a></li>
-        </ul>
-        </nav>
-
-    <head>
-        <title>Google Search</title>
-    </head>
-
+   </ul>
+   </nav>
     <body>
         <img src="googlelogo.png" alt="Google">
         <form action="https://google.com/search">
