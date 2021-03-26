@@ -5,7 +5,7 @@
         <nav>
             <ul>
        <li><a href="/index.md">Google Search</a></li>
-       <li><a href="./advanced.html">Advanced Search</a></li>
+       <li><a href="advanced.html">Advanced Search</a></li>
        <li><a href="/image.md">Image Search</a></li>
        <li><a href="/lucky.md">I'm Feeling Lucky</a></li>
         </ul>
